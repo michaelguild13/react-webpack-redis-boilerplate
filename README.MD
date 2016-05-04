@@ -7,6 +7,7 @@ node.js + webpack + babel + react + redis
 ###Installation
 `npm install`
 Now you will need to install redis http://redis.io/topics/quickstart
+Redis code was copy & pasted from http://redis.js.org/ USAGE EXAMPLE
 
 ###Start Dev Server & Redis
 `npm start`

@@ -18,6 +18,7 @@ new WebpackDevServer(webpack(config), {
 });
 
 // Redis Database
+// code was C&P from http://redis.js.org/ USAGE EXAMPLE
 client.on("error", function (err) {
     console.log("Error " + err);
 });
