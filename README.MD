@@ -16,9 +16,3 @@ Files will be produced to `static/public/build`
 
 ### Notes
 Json seed data can be stored in seeds dir and loaded with webpack's json-loader. Just 'import' the json files.
-
-###Seed Locations & Resources
-http://www.gps-coordinates.net/
-http://opendata.arcgis.com/
-https://www.movebank.org/
-https://www.mockaroo.com/
