@@ -5,9 +5,7 @@ This is a boilerplate for starting a react redis application.
 node.js + webpack + babel + react + redis
 
 ###Installation
-`npm install`
-Now you will need to install redis http://redis.io/topics/quickstart
-Redis code was copy & pasted from http://redis.js.org/ USAGE EXAMPLE
+Run `npm install`. Now you will need to install redis http://redis.io/topics/quickstart .Redis code was copy & pasted from http://redis.js.org/ as a usage example.
 
 ###Start Dev Server & Redis
 `npm start`
